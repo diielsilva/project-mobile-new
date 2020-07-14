@@ -1,16 +1,10 @@
-# prototype
+Este foi um projeto simples criado com o Flutter, com fins de estudo, além do Flutter para criar a aplicação em si, foi utilizado o Firebase para servidor como base de dados.
 
-A new Flutter application.
+Como usar:
 
-## Getting Started
+1º Passo: Deve-se ter instalado em sua máquina o Flutter e de preferência um emulador Android.
+2º Passo: Deve-se colocar os arquivos de "Views" dentro da pasta "projeto"/lib/ e substituir algum arquivo caso exista.
+3º Passo: Deve-se colocar os arquivos de "Models" dentro da raíz do projeto.
+4º Passo: Importar os plugins que estão localizados no .yaml
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+OBS: Para funcionar, deve-se ter criado no Firebase, criar o projeto no Firebase e vincular este projeto com o projeto localizado no seu computador.
