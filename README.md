@@ -8,6 +8,6 @@ Como usar:
 
 3º Passo: Deve-se colocar os arquivos de "Models" dentro da raíz do projeto.
 
-4º Passo: Importar os plugins que estão localizados no .yaml
+4º Passo: Importar os plugins que estão localizados no pubspec.yaml
 
-OBS: Para funcionar, deve-se ter criado no Firebase, criar o projeto no Firebase e vincular este projeto com o projeto localizado no seu computador.
+OBS: Para funcionar, tem que se criar um projeto no Firebase e vincular este projeto com o projeto localizado no seu computador.
